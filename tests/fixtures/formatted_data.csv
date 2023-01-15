@@ -1,0 +1,26 @@
+county,state,tax rate,tax amount
+County_1,State_1,10.0,20000.0
+County_2,State_1,10.0,10000.0
+County_3,State_1,15.0,30000.0
+County_4,State_1,15.0,30000.0
+County_5,State_1,10.0,30000.0
+County_1,State_2,10.0,20000.0
+County_2,State_2,10.0,10000.0
+County_3,State_2,20.0,35000.0
+County_4,State_2,10.0,30000.0
+County_5,State_2,10.0,20000.0
+County_1,State_3,5.0,10000.0
+County_2,State_3,10.0,10000.0
+County_3,State_3,22.0,38000.0
+County_4,State_3,10.0,30000.0
+County_5,State_3,10.0,20000.0
+County_1,State_4,5.0,10000.0
+County_2,State_4,10.0,10000.0
+County_3,State_4,5.0,12000.0
+County_1,State_5,15.0,15000.0
+County_2,State_5,10.0,10000.0
+County_3,State_5,15.0,22000.0
+County_4,State_5,15.0,15000.0
+County_5,State_5,10.0,10000.0
+County_6,State_5,15.0,22000.0
+County_7,State_5,15.0,22000.0

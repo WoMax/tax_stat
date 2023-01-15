@@ -1,0 +1,26 @@
+State,Region,Tax Rate,Tax amount
+State_1,County_1,10,20000
+State_1,County_2,10,10000
+State_1,County_3,15,30000
+State_1,County_4,15,30000
+State_1,County_5,10,30000
+State_2,County_1,10,20000
+State_2,County_2,10,10000
+State_2,County_3,20,35000
+State_2,County_4,10,30000
+State_2,County_5,10,20000
+State_3,County_1,5,10000
+State_3,County_2,10,10000
+State_3,County_3,22,38000
+State_3,County_4,10,30000
+State_3,County_5,10,20000
+State_4,County_1,5,10000
+State_4,County_2,10,10000
+State_4,County_3,5,12000
+State_5,County_1,15,15000
+State_5,County_2,10,10000
+State_5,County_3,15,22000
+State_5,County_4,15,15000
+State_5,County_5,10,10000
+State_5,County_6,15,22000
+State_5,County_7,15,22000
